@@ -1,0 +1,7 @@
+PING www.google.com (172.217.160.132) 56(84) bytes of data.
+64 bytes from maa03s29-in-f4.1e100.net (172.217.160.132): icmp_seq=1 ttl=52 time=111 ms
+64 bytes from maa03s29-in-f4.1e100.net (172.217.160.132): icmp_seq=2 ttl=52 time=94.8 ms
+
+--- www.google.com ping statistics ---
+2 packets transmitted, 2 received, 0% packet loss, time 1000ms
+rtt min/avg/max/mdev = 94.803/103.239/111.676/8.442 ms
